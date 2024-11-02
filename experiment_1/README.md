@@ -15,7 +15,7 @@
 <th>ردیف</th><th>قطعه</th><th>تعداد</th>
 </tr>
 </thead>
-<tbody>
+<tbody align="center">
 <tr>
 <td>1</td><td>بردبورد</td><td>یک عدد</td>
 </tr>
