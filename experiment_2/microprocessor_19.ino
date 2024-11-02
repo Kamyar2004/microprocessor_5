@@ -4,6 +4,7 @@ int duration = 0;
 int distance = 0;
 int led = 11;
 int pwmLed = 0;
+
 void setup() {
   pinMode(trig, OUTPUT);
   pinMode(echo, INPUT);
